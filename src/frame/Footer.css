@@ -1,0 +1,14 @@
+.menuBar{
+  position: absolute;
+  bottom: 20px;
+  height: 20px;
+  width: 100%;
+}
+
+.menuBar > div.menu-item{
+  text-align: center;
+}
+
+.clear-float {
+  float: none;
+}
